@@ -1,5 +1,15 @@
 hello my test
 $clear //清除畫面
+dictionaryWithObjectsAndKeys:
+            [NSNumber numberWithInt:AVAudioQualityMin],
+            AVEncoderAudioQualityKey,
+            [NSNumber numberWithInt:16],
+            AVEncoderBitRateKey,
+            [NSNumber numberWithInt: 2],
+            AVNumberOfChannelsKey,
+            [NSNumber numberWithFloat:44100.0],
+            AVSampleRateKey,
+            nil];
 $pwd //present working directory
 $ls //資料夾底下有哪些資料夾
 $cd name//資料夾名稱
@@ -8,6 +18,16 @@ $ git commit// Initial commit
 $ git status//git 狀態
 hello my test
 hello my test
+dictionaryWithObjectsAndKeys:
+            [NSNumber numberWithInt:AVAudioQualityMin],
+            AVEncoderAudioQualityKey,
+            [NSNumber numberWithInt:16],
+            AVEncoderBitRateKey,
+            [NSNumber numberWithInt: 2],
+            AVNumberOfChannelsKey,
+            [NSNumber numberWithFloat:44100.0],
+            AVSampleRateKey,
+            nil];
 $cd.. //回上層
 $ ls -a //顯示全部含隱藏檔
 $ git init //初始
@@ -18,3 +38,13 @@ $ls //資料夾底下有哪些資料夾
 hello my test
 hello my test
 $ls //資料夾底下有哪些資料夾
+dictionaryWithObjectsAndKeys:
+            [NSNumber numberWithInt:AVAudioQualityMin],
+            AVEncoderAudioQualityKey,
+            [NSNumber numberWithInt:16],
+            AVEncoderBitRateKey,
+            [NSNumber numberWithInt: 2],
+            AVNumberOfChannelsKey,
+            [NSNumber numberWithFloat:44100.0],
+            AVSampleRateKey,
+            nil];
